@@ -1,7 +1,7 @@
 # Game-EDA
-Here there is my IA player of the game The Purgue. It was developed in the subject Data Structures and Algorithms ([EDA](https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/syllabus/EDA)) in Facultat d'Informàtica de Barcelona ([FIB](https://www.fib.upc.edu/)), [UPC](https://www.upc.edu/ca). 
+Here there is my AI player of the game The Purgue. It was developed in the subject Data Structures and Algorithms ([EDA](https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering/curriculum/syllabus/EDA)) in Facultat d'Informàtica de Barcelona ([FIB](https://www.fib.upc.edu/)), [UPC](https://www.upc.edu/ca). 
 
-In the folder "game" you'll find a C++ file, [`AIPaco30.cc`](./game/AIPaco30.cc), my IA player.
+In the folder "game" you'll find a C++ file, [`AIPaco30.cc`](./game/AIPaco30.cc), my AI player.
 
 In the folder "rules and documentation" it is specified the rules of the game and how to execute it.
 
