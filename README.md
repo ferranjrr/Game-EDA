@@ -8,4 +8,4 @@ In the folder "rules and documentation" it is specified the rules of the game an
 Through this game I practiced the algorithms and data structures related with Graphs: 
 Representations: adjacency matrices, adjacency lists and implicit representation. Depth-first search (DFS). Breadth-first search (BFS). Topological sort. Dijkstra's algorithm for shortest paths. Prim's algorithm for minimum spanning trees.
 
-Final mark: 9.06 out of 10.
+**Final mark: 9.06 out of 10.**
